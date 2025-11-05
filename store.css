@@ -1,0 +1,26 @@
+
+    body{
+        background: linear-gradient(to right,#e3f2fd, #fff);
+
+        font-family: Arial, Helvetica, sans-serif;       
+}
+
+        h1,h2{
+            font-weight: 700;
+            font-style: italic;
+        }
+    .btn{
+        border-radius: 30px;
+    }
+ .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.03);
+    transition: 0.3s;
+ }
+ #l1:hover{
+    background-color: #daebf8;
+    border-radius: 10px;
+    transition: 0.3s;
+    text-decoration: aquamarine;
+    color: blueviolet;
+ }
