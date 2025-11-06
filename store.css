@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
     body{
         background: linear-gradient(to right,#e3f2fd, #fff);
 
@@ -22,5 +26,41 @@
     border-radius: 10px;
     transition: 0.3s;
     text-decoration: aquamarine;
-    color: blueviolet;
+    color: palevioletred;
  }
+ #button{
+background-color: #03030ed0;
+border-radius: 10px;
+color: white;
+width: 187px;
+height: 43px;
+border: none;
+ }
+ 
+#span{
+  
+    font-weight: 700;
+}
+
+#wholeA{
+      text-decoration: none;
+
+}
+
+#navbar{
+
+    position: fixed;
+    margin-top: -205px;
+    background-color:rgba(173, 216, 230, 0.925);
+ z-index: 1000;
+ 
+
+}
+
+
+#navbar2{
+
+    position: relative;
+    margin-top: 200px;
+}
+
