@@ -91,3 +91,21 @@ body{
     text-align: center;
     
 }
+
+.features img.features-img{
+    width: 30%;
+    min-width: 120px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+ 
+.features img.features-img:hover{
+    transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+    .features img.features-img{
+        width: 45%;
+    }
+}
