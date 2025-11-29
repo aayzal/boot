@@ -92,3 +92,62 @@ body{
     
 }
 
+#button:hover{
+    background-color: #000000d0;
+    color: white;
+    transition: 0.3s;
+}
+
+#Wholesale:hover{
+    background-color: #441616d0;
+    color: white;
+    transition: 0.3s;
+}
+
+#Retail:hover{
+    background-color: #000000d0;
+    color: white;
+    transition: 0.3s;
+  -moz-box-orient: block-axis;
+  border: none;
+}
+
+#click:hover{
+    background-color: #740d0dd0;
+    color: white;
+    transition: 0.3s;
+   margin-left: 60px;
+   size-adjust: initial;
+   border: none;
+   box-sizing: content-box;
+   box-decoration-break: slice;
+}
+
+#icon{
+    margin-left: 10px;
+   background-color: rgb(98, 192, 199);
+   block-size: 40px;
+   mask-size: 50px;
+   size: 44px;
+}
+
+#key1{
+    position: absolute;
+    /* text-align: center; */
+    margin-top: 17px;
+    margin-left: 323px;
+}
+
+#para{
+     text-align: center;
+     color: rgb(0, 0, 0);
+}
+
+#p{
+    
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+
+
